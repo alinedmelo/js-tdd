@@ -1,0 +1,19 @@
+{
+  "name": "js-with-tdd-course",
+  "version": "1.0.0",
+  "description": "Javascript with TDD Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinedmelo/js-tdd.git"
+  },
+  "author": "Aline Dias <aline.meldias@gmail.com> (https://alinedias.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alinedmelo/js-tdd/issues"
+  },
+  "homepage": "https://github.com/alinedmelo/js-tdd#readme"
+}
