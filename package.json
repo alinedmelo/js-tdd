@@ -4,7 +4,7 @@
   "description": "Javascript with TDD Course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepush": "npm run lint"
   },
   "repository": {
     "type": "git",
